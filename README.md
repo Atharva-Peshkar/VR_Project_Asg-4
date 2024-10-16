@@ -14,3 +14,11 @@ The user will perform different actions that will trigger an explosion for an ob
 
 3. Remote controlled - The user will press a button on the controller to trigger the explosion.
 ![3](./Images/vr_3.jpeg)
+
+**_Additional interactions (optional)_**
+4. User picks up the object and throws it. The object explodes on impact with the wall in the scene.
+
+5. User says a word like "boom" or "explode" and the object in the scene explodes.
+
+![4 and 5](./Images/vr_4_5.jpeg)
+
