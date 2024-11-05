@@ -1,4 +1,4 @@
-# XR Project: Object Destruction and Explosion Interaction Variants
+# XR Project: Object Destruction and Explosion Interaction Variants (Week 10)
 
 ## Project Overview
 
