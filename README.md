@@ -69,7 +69,7 @@ This project provided valuable insights into how users respond to different inte
 Ultimately, testing these variants demonstrated the importance of tailored feedback and customization in VR design. Direct, hands-on actions like grabbing and throwing resonate well with users, as they provide a sense of control and immersion, especially for tasks involving timing and skill.
 
 
-## Project Proposal - Interaction Description (Week 7)
+# Project Proposal - Interaction Description (Week 7)
 The user will perform different actions that will trigger an explosion for an object in the scene.
 
 1. **Shooting** - The user will aim their controller and shoot bullets at the object. Once the bullet hits the object it will trigger an explosion.
