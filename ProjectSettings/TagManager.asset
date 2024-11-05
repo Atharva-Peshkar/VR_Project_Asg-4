@@ -3,16 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - redBulletObj
+  - EnemyHbox
+  - NewEnemy
+  - Trap
+  - wall
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
-  - 
+  - Teleport
+  - Enemies
   - 
   - 
   - 
