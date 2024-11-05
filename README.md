@@ -10,7 +10,7 @@ This project explores multiple approaches to a core VR interaction: triggering a
 
 2. **Stepping on a Trap**: In this variation, users trigger the explosion by stepping on a designated trap tile, introducing an indirect mechanism and an element of anticipation.
 
-3. **Grabbing and Throwing the Object**: Users pick up the object and throw it, causing it to explode upon impact with a wall, adding a physical, hands-on interaction.
+3. **Grabbing and Throwing the Object**: Users grab the object and throw it, causing it to explode upon impact with a wall, adding a physical, hands-on interaction.
 
 Each variation builds on the same core interaction but offers unique methods of engagement:
 - **Direct**: Shooting
