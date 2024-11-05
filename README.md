@@ -38,10 +38,10 @@ Each interaction affected users' experiences uniquely, and initial expectations 
 
 - **Shooting the Object**
   - **User Reactions**: Users quickly understood this mechanic, finding it straightforward and natural. Familiarity with VR shooting mechanics made it an effortless choice.
-  - **Suggested Improvements**: Users suggested adding sound or visual feedback when the shot connects with the object to enhance the experience.
+  - **Suggested Improvements**: None
 
 - **Stepping on a Trap**
-  - **User Reactions**: This method introduced a cautious approach, with users pausing before stepping on the trap. This added a sense of tension that some described as similar to a “booby trap” or hidden danger, though it felt slightly out of context.
+  - **User Reactions**: This method introduced a cautious approach, with users pausing before stepping on the trap. This added a sense of tension that some described as similar to a “booby trap” or hidden danger, though it felt slightly out of context in this project setting.
   - **Suggested Improvements**: Only certain traps triggered explosions by design, but users misunderstood this as a malfunction, assuming some traps were broken. In future versions, clearer visual cues could indicate which traps are active.
 
 - **Grabbing and Throwing the Object**
